@@ -1,0 +1,17 @@
+{
+  "name": "sporc",
+  "main": "index.js",
+  "homepage": "https://github.com/AdelaideTh/sporc",
+  "authors": [
+    "AdelaideTh <athompson23@bfhsla.org>"
+  ],
+  "description": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
