@@ -14,4 +14,7 @@
     "test",
     "tests"
   ]
+  ,"dependencies": {
+      "sporc": "https://github.com/AdelaideTh/sporc.git"
+  }
 }
